@@ -49,7 +49,7 @@ The Jupyter Notebook follows this workflow:
 2. Install dependencies:
    ```bash
    pip install pandas numpy statsmodels scipy vectorbt matplotlib requests
-````
+   ```
 
 3. Open the Jupyter Notebook:
 
